@@ -34,6 +34,9 @@ Visualized relationships using Seaborn clustermap
 Insights – Extracted meaningful patterns from the dataset regarding case severity and region-wise comparison.
 
 👨‍💻 Author
+<br>
 Deep Jain
+<br>
 B.Tech in Artificial Intelligence & Machine Learning | IPS Academy, Indore
+<br>
 📎 https://www.linkedin.com/in/deep-jain-697071255 | https://github.com/deepjain22
